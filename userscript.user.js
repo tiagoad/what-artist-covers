@@ -4,6 +4,7 @@
 // @include     /^https://what\.cd/artist\.php.*/
 // @version     1
 // @grant       none
+// @downloadURL https://github.com/ttsda/what-artist-covers/raw/master/userscript.user.js
 // ==/UserScript==
 var releaseTypes = {
     1: "Albums",
